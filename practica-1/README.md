@@ -1,7 +1,7 @@
 # Práctica 1: Clasificador kNN y Selección de Atributos
 
-**Asignatura:** Aprendizaje Automático II (Curso 2026-27)
-**Autor:** Samuel Castaño Farelo
+**Asignatura:** Aprendizaje Automático II
+**Autor:** Samuel Castaño Farelo y David Lopez Poza
 
 ---
 
